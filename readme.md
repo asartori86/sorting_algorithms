@@ -1,6 +1,6 @@
 # Sorting algorithms
 
-(Comparison Sorting Algorithms)[https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html]
+Comparison Sorting Algorithms: https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html
 
 ## Bubble sort
 
